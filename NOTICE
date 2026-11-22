@@ -1,0 +1,9 @@
+Implementation and adaptations by GPT-6.2 Sol.
+
+The MSIX extractor, ZIP path handling and portable launch configuration are
+adapted from Wangnov/Codex-App-Manager, commit
+82887d8799e70deb15bd3ed9b92d420d31378cea (MIT, Copyright (c) 2026 Wangnov).
+https://github.com/Wangnov/Codex-App-Manager/tree/82887d8799e70deb15bd3ed9b92d420d31378cea
+
+OpenAI's separately downloaded ChatGPT/Codex binaries are governed by their
+own terms. They are neither modified nor redistributed by this repository.
